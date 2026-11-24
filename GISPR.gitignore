@@ -1,0 +1,12 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.shp
+*.shx
+*.dbf
+*.prj
+*.gpkg
+*.gdb/
+*.tif
+*.nc
